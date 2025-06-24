@@ -4,7 +4,7 @@ var oldvalue = 0;
 let button = document.getElementById("button");
 
 button.onclick =() => {
-    let n = document.getElementById("number").ariaValueMax;
+    let n = document.getElementById("number").value;
     let circle = document.getElementById("circle");
     let square = document.getElementById("square");
     let rectangle = document.getElementById("rectangle");
