@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 #input{
-    background-color:lightcoral;
+    background-color:rgb(78, 45, 45);
     width:100vw;
     height : 50vh;
     color: white;
@@ -30,14 +30,14 @@ h1{
     width: 100px;
     height: 40px;
     font-size: 1.2em;
-    background-color: bisque;
+    background-color: rgb(101, 63, 16);
     color: black;
 }
 
 .square{
     height: 50px;
     width: 50px;
-    background-color: blueviolet;
+    background-color: rgb(67, 43, 90);
     color: white;
     display: flex;
     flex-direction: row;
@@ -52,7 +52,7 @@ h1{
 .rectangle{
     height: 50px;
     width: 100px;
-    background-color:orangered;
+    background-color:rgb(154, 93, 71);
     color: white;
     display: flex;
     flex-direction: row;
@@ -68,7 +68,7 @@ h1{
     height: 50px;
     width: 50px;
     border-radius: 50%;
-    background-color:hotpink;
+    background-color:rgb(116, 75, 96);
     color: white;
     display: flex;
     flex-direction: row;
